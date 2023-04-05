@@ -1,0 +1,55 @@
+{
+    "title": "Interactive story path",
+    "description": "This is a tool to produce an interactive learning path through material used in EhB. This will be done through video's, questions and feedback.",
+    "goals": {
+      "description": "These are the goals for this course",
+      "list": [
+        "Goal 1: be awesome",
+        "Goal 2: be amazing",
+        "Goal 3: learn something"
+      ]
+    },
+    "theory": {
+      "description": "These are the theory subjects for this course",
+      "list": [
+        "Theory 1: be awesome",
+        "Theory 2: be amazing",
+        "Theory 3: learn something"
+      ]
+    },
+    "exercises": [
+      {
+        "title": "Scenario 1",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "EiLQ9xaytP8 ",
+        "titleChoiceA": "Part 1 of the journey",
+        "videoIdChoiceA": "KJkN0Qlyc0U",
+        "titleChoiceB": "Part 2 of the journey",
+        "videoIdChoiceB": "A_mG6K8pJQM",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "This clip follows the introduction."
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "This is the second clip in the series. You need to watch the first one after the intro."
+        }
+      },{
+        "title": "Scenario 2",
+        "description": "This is an explanation of the scenario",
+        "startVideoId": "EiLQ9xaytP8 ",
+        "titleChoiceA": "Part 1 of the journey",
+        "videoIdChoiceA": "KJkN0Qlyc0U",
+        "titleChoiceB": "Part 2 of the journey",
+        "videoIdChoiceB": "A_mG6K8pJQM",
+        "feedbackA": {
+          "correct": true,
+          "explanation": "This clip follows the introduction."
+        },
+        "feedbackB": {
+          "correct": false,
+          "explanation": "This is the second clip in the series. You need to watch the first one after the intro."
+        }
+      }
+    ]
+  }

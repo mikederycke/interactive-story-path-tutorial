@@ -1,3 +1,9 @@
+This is the solution to an exercise given in the course Frontend, a module in the Multimedia and Creative Technologies bachelor at Erasmushogeschool Brussels. 
+For a coding along video series, visit this youtube channel: https://www.youtube.com/mikederycke
+The playlist for this exercise can be found here: https://www.youtube.com/playlist?list=PLGsnrfn8XzXiXVTD05qof8L-Hp5We3G5E
+
+Want more coding alongs and tutorials? Mail at mike.derycke@ehb.be
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
